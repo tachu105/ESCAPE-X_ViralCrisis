@@ -19,7 +19,7 @@
 ## SpecialThanks
 ### ・[kochounoyume](https://github.com/kochounoyume)
 テクニカルアドバイザー
-### ・おりょう
+### ・[oryosan59](https://github.com/Oryosan59)
 3Dデザイナー（救急キット、チャージボックス、医療ポッド）
 
 <br>
